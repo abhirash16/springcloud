@@ -2,3 +2,5 @@ my:
     greeting: Hello World Rashmi
     list:
         values: one, two , three
+    user: user
+    password: password
